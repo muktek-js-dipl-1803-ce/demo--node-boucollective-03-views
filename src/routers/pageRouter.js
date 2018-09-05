@@ -11,7 +11,7 @@ pageRouter
     //   })
     var currentYear = ( new Date() ).getFullYear()
     //STEP A.3
-    res.render('home.ejs', { copyright: currentYear})
+    res.render('home.ejs', { copyright: currentYear })
   })
 
 

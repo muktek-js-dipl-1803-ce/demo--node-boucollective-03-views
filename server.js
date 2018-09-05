@@ -4,8 +4,8 @@ const ejs = require('ejs')
 
 
 
-const pageRouter = require('./src/routes/pageRouter.js')
-const apiRouter = require('./src/routes/apiRouter.js')
+const pageRouter = require('./src/routers/pageRouter.js')
+const apiRouter = require('./src/routers/apiRouter.js')
 
 
 const app = express()
