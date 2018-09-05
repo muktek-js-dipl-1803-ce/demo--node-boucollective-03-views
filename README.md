@@ -10,7 +10,7 @@ npm install --save ejs
 
 ### Files Modified
 
-(A) `server.js`
+**(A)** `server.js`
   + import ejs
   + configure ejs
 
@@ -33,7 +33,7 @@ npm install --save ejs
   //....
   ```
 
-(B) `pageRouter.js`
+**(B)** `pageRouter.js`
   + use `res.render()`
   
   ```js
